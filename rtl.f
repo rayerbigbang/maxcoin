@@ -1,0 +1,17 @@
+/root/Desktop/project/Icarus_maxcoin/fpga/dyn_pll_ctrl.v
+/root/Desktop/project/Icarus_maxcoin/fpga/f_permutation.v
+/root/Desktop/project/Icarus_maxcoin/fpga/hashcore.v
+/root/Desktop/project/Icarus_maxcoin/fpga/hub_core.v
+/root/Desktop/project/Icarus_maxcoin/fpga/keccak.v
+/root/Desktop/project/Icarus_maxcoin/fpga/maxcoinminer.v
+/root/Desktop/project/Icarus_maxcoin/fpga/padder1.v
+/root/Desktop/project/Icarus_maxcoin/fpga/padder.v
+/root/Desktop/project/Icarus_maxcoin/fpga/pwm_fade.v
+/root/Desktop/project/Icarus_maxcoin/fpga/rconst2in1.v
+/root/Desktop/project/Icarus_maxcoin/fpga/round2in1.v
+/root/Desktop/project/Icarus_maxcoin/fpga/serial_hub.v
+/root/Desktop/project/Icarus_maxcoin/fpga/serial.v
+/root/Desktop/project/Icarus_maxcoin/fpga/test_maxcoinminer.v
+/root/Desktop/project/Icarus_maxcoin/fpga/uart_receiver.v
+/root/Desktop/project/Icarus_maxcoin/fpga/uart_transmitter.v
+/root/Desktop/project/Icarus_maxcoin/fpga/xilinx_dyn_pll.v
